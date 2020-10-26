@@ -1,2 +1,3 @@
-# anything [![HitCount](http://hits.dwyl.com/DonggeunKwon/anything.svg)](http://hits.dwyl.com/DonggeunKwon/anything)
+# anything
+![GitHub search hit counter](https://img.shields.io/github/search/DonggeunKwon/anything/hit?color=s&label=hits)
 Anything whatever I want
