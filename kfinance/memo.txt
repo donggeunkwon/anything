@@ -1,0 +1,5 @@
+# http://kind.krx.co.kr/corpgeneral/corpList.do?method=download&searchType=13&marketType={market_type}
+# market_type = {'KRX':'', 'KOSPI':'stockMkt', 'KOSDAQ':'kosdaqMkt', 'KONEX':'konexMkt' }
+
+# http://www.nasdaq.com/screening/companies-by-name.aspx?letter=0&render=download&exchange={market_type}
+# market_type = [ 'NASDAQ', 'NYSE', 'AMEX']
